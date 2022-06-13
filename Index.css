@@ -82,6 +82,7 @@
 .profile-image-column-2-content p{
 	width: 50%;
 	font-family: 'Poppins', sans-serif;
+	font-weight: 100;
 	margin-top: -117px;
 	float: right;
 	margin-right: -60px;
@@ -105,6 +106,7 @@
 	margin-top: -126px;
 	float: left;
 	font-family: 'Poppins', sans-serif;
+	font-weight: 100;
 	text-align: right;
 }
 
