@@ -29,7 +29,7 @@
 	background-color: #E7812D;
 	border-radius: 70px;
 	padding-top: 10px;
-	font-family: bebas-neue;
+	font-family: 'Bebas Neue', cursive;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 20px;
@@ -70,7 +70,7 @@
 }
 .profile-image-column-2-content h2{
 	margin-top: 150px;
-	font-family: bebas-neue;
+	font-family: 'Bebas Neue', cursive;
 	font-size: 130px;
 	letter-spacing: 3px;
 	width: 50%;
@@ -81,14 +81,14 @@
 }
 .profile-image-column-2-content p{
 	width: 50%;
-	font-family: "Poppins Thin";
+	font-family: 'Poppins', sans-serif;
 	margin-top: -117px;
 	float: right;
 	margin-right: -60px;
 }
 
 .profile-image-column-2-content-2 h2{
-	font-family: bebas-neue;
+	font-family: 'Bebas Neue', cursive;
 	font-size: 130px;
 	letter-spacing: 3px;
 	float: right;
@@ -104,7 +104,7 @@
 	width: 50%;
 	margin-top: -126px;
 	float: left;
-	font-family: "Poppins Thin";
+	font-family: 'Poppins', sans-serif;
 	text-align: right;
 }
 
@@ -133,7 +133,7 @@
 }
 .section2-column h2{
 	text-align: center;
-	font-family: "Poppins Medium";
+	font-family: 'Poppins', sans-serif;
 }
 .section2-column1{
 	
@@ -173,7 +173,7 @@
 }
 .section3-content-title{
 	margin-right: 120px;
-	font-family: "bebas-neue";
+	font-family: 'Bebas Neue', cursive;
 	font-size: 40px;
 	word-spacing: 7px;
 	padding-left: 50px;
@@ -255,7 +255,7 @@
 }
 .footer p{
 	color: #FFFFFF;
-	font-family: "Poppins Medium";
+	font-family: 'Poppins', sans-serif;
 }
 .footer-social-link i {
 	display: inline-block;
