@@ -4,7 +4,7 @@
 	padding: 0;
 	list-style: none;
 	scroll-behavior: smooth;
-	cursor: pointer;
+
 }
 
 
@@ -31,7 +31,7 @@
 	background-color: #E7812D;
 	border-radius: 70px;
 	padding-top: 10px;
-	font-family: bebas-neue;
+	font-family: 'Bebas Neue', cursive;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 20px;
@@ -68,7 +68,7 @@
 }
 
 .profile-image-column-2 h2{
-	font-family: "bebas-neue";
+	font-family: 'Bebas Neue', cursive;
 	font-size: 130px;
 	letter-spacing: 5px;
 	color: #285949;
@@ -122,7 +122,7 @@
 	display: flex;
 	align-items: center;
 	margin-top: 155px;
-	font-family: "bebas-neue";
+	font-family: 'Bebas Neue', cursive;
 	font-size: 70px;
 	letter-spacing: 3px;
 	color: #FDFDFD;
@@ -164,7 +164,7 @@
 }
 
 .new-section2-1-column h2{
-	font-family: "bebas-neue";
+	font-family: 'Bebas Neue', cursive;
 	font-size: 50px;
 	letter-spacing: 3px;
 	text-align: center;
@@ -255,7 +255,7 @@ justify-content: center;
 	align-items: center;
 	justify-content: space-around;
 	text-align: center;
-	font-family: "Bebas-neue";
+	font-family: 'Bebas Neue', cursive;
 	font-size: 90px;
 	letter-spacing: 3px;
 	color: #295949;
@@ -318,7 +318,7 @@ justify-content: center;
 }
 .section3-column1{
 	margin-right: 120px;
-	font-family: "bebas-neue";
+	font-family: 'Bebas Neue', cursive;
 	font-size: 40px;
 	word-spacing: 7px;
 	padding-left: 50px;
