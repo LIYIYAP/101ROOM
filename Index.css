@@ -75,7 +75,7 @@
 }
 
 .profile-image-column-2 p{
-	font-family: "Poppins Thin";
+	font-family: 'Poppins', sans-serif;
 	font-size: 16px;
 	width: 75%;
 	padding-top: 8px;
@@ -129,7 +129,7 @@
 }
 
 .new-section2-column-2 p{
-	font-family: "poppins-Light";
+	font-family: 'Poppins', sans-serif;
 	font-size: 20px;
 	padding-top: 20px;
 	width: 90%;
@@ -173,7 +173,7 @@
 }
 
 .new-section2-1-column p{
-	font-family: "poppins-Light";
+	font-family: 'Poppins', sans-serif;
 	font-size: 15px;
 	text-align: center;
 	padding-top: 15px;
@@ -402,7 +402,7 @@ justify-content: center;
 }
 .footer p{
 	color: #FFFFFF;
-	font-family: "Poppins Medium";
+	font-family: 'Poppins', sans-serif;
 }
 .footer-social-link i {
 	display: inline-block;
